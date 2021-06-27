@@ -13,7 +13,7 @@ def main():
 	print("target names of datasets")
 	print(dataset.target_names)		
 	
-	print("iris dataset is:")
+	print("Iris dataset is:")
 	
 	#Testing block
 	index = [1,51,101]	 # 3 data
